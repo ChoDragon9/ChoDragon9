@@ -1,5 +1,5 @@
 ### Hi there 👋
-조용구 | ISTJ | 프런트엔드 개발자 | [LinkedIn](https://www.linkedin.com/in/yongku-cho)
+조용구 | ISTJ | 프런트엔드 개발자 | [LinkedIn](https://www.linkedin.com/in/yongku-cho) | [커리어리](https://careerly.co.kr/profiles/617720)
 
 고등학생 시절 독학으로 시작해서 여러 번의 대회 수상으로 프런트엔드 개발자를 선택했습니다.
 이후 현업에서 10년 차 동안 대기업에서 2번의 조기진급과 카카오에서 시니어로 인정받았습니다.
