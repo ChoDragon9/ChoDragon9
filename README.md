@@ -7,6 +7,10 @@
 독학으로 깊이 파고 문서로 정리하는 것을 좋아하고,
 매끄러운 커뮤니케이션과 효율적인 개발로 생산성을 끌어올리는 것을 자주 고민합니다 :)
 
+#### 정리 문서
+- 학습한 자료는 대부분 [ChoDragon9/posts](https://github.com/ChoDragon9/posts/wiki) 저장소에 정리합니다.
+- 펫 프로젝트는 [개인 기술 블로그 - 펫 프로젝트](https://the-next-web-research-lab.github.io/fe-dev/pet-project.html)에 정리합니다.
+
 #### 경력
 - 더넥스트웹리서치랩 | 2023.06.01~
 - 마플코퍼레이션 | R&D | 2022.07.05~2023.05.31
