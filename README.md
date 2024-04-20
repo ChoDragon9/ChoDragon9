@@ -1,7 +1,7 @@
 ### Hi 👋
-조용구 | ISTJ | 프런트엔드 개발자 | [LinkedIn](https://www.linkedin.com/in/yongku-cho) | [커리어리](https://careerly.co.kr/profiles/617720)
+조용구 | ISTJ | 프론트엔드 개발자 | [LinkedIn](https://www.linkedin.com/in/yongku-cho) | [프로그래머스](https://career.programmers.co.kr/job_profiles/public_setting) | [커리어리](https://careerly.co.kr/profiles/617720)
 
-고등학생 시절 독학으로 시작해서 여러 번의 대회 수상으로 프런트엔드 개발자를 선택했습니다.
+고등학생 시절 독학으로 시작해서 여러 번의 대회 수상으로 프론트엔드 개발자를 선택했습니다.
 이후 현업에서 10년 차 동안 대기업에서 2번의 조기진급과 카카오에서 시니어로 인정받았습니다.
 
 독학으로 깊이 파고 문서로 정리하는 것을 좋아하고,
@@ -20,7 +20,7 @@
 
 #### 주요 프로젝트
 - 더넥스트웹리서치랩
-  - [세로토닌이 생기는 담백한 프런트엔드 기술 블로그를 운영](https://the-next-web-research-lab.github.io/)
+  - [세로토닌이 생기는 담백한 프론트엔드 기술 블로그를 운영](https://the-next-web-research-lab.github.io/)
 - 마플코퍼레이션
   - [사이어티: Web3 커뮤니티 소셜 플랫폼](https://www.ciety.xyz)
 - 카카오
