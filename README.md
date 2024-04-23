@@ -21,7 +21,7 @@
 
 #### 주요 프로젝트
 - 더넥스트웹리서치랩
-  - [세로토닌이 생기는 담백한 프론트엔드 기술 블로그를 운영](https://the-next-web-research-lab.github.io/)
+  - [프런트엔드 기술 블로그](https://the-next-web-research-lab.github.io/)
 - 마플코퍼레이션
   - [사이어티: Web3 커뮤니티 소셜 플랫폼](https://www.ciety.xyz)
 - 카카오
