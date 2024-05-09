@@ -10,10 +10,11 @@
 - 도구: `Grunt`, `Webpack`, `ESLint`, `Docker`, `Kubernetes`, `Puppeteer`, `Lighthouse`
 
 ---
-(SNS)
-- [LinkedIn](https://www.linkedin.com/in/yongku-cho)
-- [프로그래머스](https://career.programmers.co.kr/pr/155864_8345)
-- [커리어리](https://careerly.co.kr/profiles/617720)
+활동 중인 SNS:
+- [커리어리](https://careerly.co.kr/profiles/617720): 개발 관련 지식 공유하고 있음
+- [트위터](https://twitter.com/ChoDragon9): 이 또한 개발 관련 지식 공유함
+- [프로그래머스](https://career.programmers.co.kr/pr/155864_8345): 알고리즘 풀이 및 이력 정리
+- [LinkedIn](https://www.linkedin.com/in/yongku-cho): 특별한 활동은 안하지만 이력 정리를 위해 만들어둠
 
 ---
 (학습 성향)
