@@ -1,3 +1,21 @@
+(인사말: 지루하지 않게)
+---
+(간단한 내 직업과 거주지)
+- (현재 관심사)
+- (학교)
+- (개발자하게된 이유)
+- (관심 기술)
+- (근무 기간) (다녔던 회사)
+- (프로젝트 도메인)
+
+---
+(SNS)
+- (링크드인)
+- (프로그래머스)
+- (커리어리)
+
+---
+(백업)
 ### Hi 👋
 조용구 | ISTJ | 프론트엔드 개발자 | [LinkedIn](https://www.linkedin.com/in/yongku-cho) | [프로그래머스](https://career.programmers.co.kr/pr/155864_8345) | [커리어리](https://careerly.co.kr/profiles/617720)
 
