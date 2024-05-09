@@ -1,13 +1,13 @@
 <h2 align="center">지구인 여러분 안녕👋 I'm 조용구</h2>
 
 **저는 수원시에 거주 중인 11년 차 프론트엔드 개발자입니다.**
-- 요새는 알고리즘 풀이하며 새로운 지식을 공부하는 데 즐기는 중.
-- 반도체 마이스터고 진학 후 기능경기대회 다수 입상으로 진로 변경.
-- 그 동안 다닌 회사: `삼성테크윈`, `한화테크윈`, `카카오`, `마플코퍼레이션`
-- 프로젝트 도메인: `칩마운터`, `CCTV`, `영화`, `챗봇`, `카카오톡 비즈폼`, `사내 플랫폼`, `SNS`, `Web3`
-- 잘 다루는 언어: `.js`, `.ts`, `.html`, `.css`
-- 프레임워크: `AngularJs`, `Vue.js`, `React`, `Angular`, `Cordova`, `React Native`
-- 도구: `Grunt`, `Webpack`, `ESLint`, `Docker`, `Kubernetes`, `Puppeteer`, `Lighthouse`
+- 💻 요새는 알고리즘 풀이하며 새로운 지식을 공부하는 데 즐기는 중.
+- 🎯 반도체 마이스터고 진학 후 기능경기대회 다수 입상으로 진로 변경.
+- 💼 그 동안 다닌 회사: `삼성테크윈`, `한화테크윈`, `카카오`, `마플코퍼레이션`
+- 📝 프로젝트 도메인: `칩마운터`, `CCTV`, `영화`, `챗봇`, `카카오톡 비즈폼`, `사내 플랫폼`, `SNS`, `Web3`
+- 🏹 잘 다루는 언어: `.js`, `.ts`, `.html`, `.css`
+- 🪄 프레임워크: `AngularJs`, `Vue.js`, `React`, `Angular`, `Cordova`, `React Native`
+- 🛠️ 도구: `Grunt`, `Webpack`, `ESLint`, `Docker`, `Kubernetes`, `Puppeteer`, `Lighthouse`
 
 ---
 **활동 중인 SNS:**
