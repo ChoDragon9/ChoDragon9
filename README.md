@@ -1,42 +1,24 @@
-### Hi 👋
-조용구 | ISTJ | 프론트엔드 개발자 | [LinkedIn](https://www.linkedin.com/in/yongku-cho) | [프로그래머스](https://career.programmers.co.kr/pr/155864_8345) | [커리어리](https://careerly.co.kr/profiles/617720)
+<h2 align="center">지구인 여러분 안녕👋 I'm 조용구</h2>
 
-고등학생 시절 독학으로 시작해서 여러 번의 대회 수상으로 프런트엔드 개발자를 선택했습니다.
-이후 현업에서 10년 차 동안 대기업에서 2번의 조기진급과 카카오에서 시니어로 인정받았습니다.
+**👋 수원시에 거주 중인 11년 차 프론트엔드 개발자입니다.**
+- 💻 요새는 알고리즘 풀이하며 새로운 지식을 공부하는 데 즐기는 중.
+- 🎯 반도체 마이스터고 진학 후 기능경기대회 다수 입상으로 진로 변경.
+- 💼 그 동안 다닌 회사: `카카오`, `삼성테크윈`, `한화테크윈`, `마플코퍼레이션`
+- 📝 프로젝트 도메인: `영화`, `챗봇`, `카카오톡 비즈폼`, `사내 플랫폼`, `칩마운터`, `CCTV`, `SNS`, `Web3`
+- 🏹 잘 다루는 언어: `.js`, `.ts`, `.html`, `.css`
+- 🪄 프레임워크: `React`, `Angular`, `AngularJs`, `Vue.js`, `Cordova`, `React Native`
+- 🛠️ 도구: `Docker`, `Kubernetes`, `Puppeteer`, `Lighthouse`, `Grunt`, `Webpack`, `ESLint`
 
-개발 방법론, 디자인 패턴, 설계, 리팩터링에 관심이 많아 레거시 프로젝트에 적응이 빠르고,
-좋은 UX를 위한 성능 최적화 지식과 경험이 많고,
-이해하기 쉬운 코드와 효율적인 설계로 생산성을 끌어올리는 것을 자주 고민합니다.
+---
+**🧑‍💻활동 중인 SNS:**
+- [커리어리](https://careerly.co.kr/profiles/617720): 개발 관련 지식 공유하고 있음
+- [트위터](https://twitter.com/ChoDragon9): 이 또한 개발 관련 지식 공유함
+- [프로그래머스](https://career.programmers.co.kr/pr/155864_8345): 알고리즘 풀이 및 이력 정리
+- [링크드인](https://www.linkedin.com/in/yongku-cho): 특별한 활동은 안 함. 이력 정리를 위해 만들어둠
 
-#### 정리 문서
-- 학습한 자료는 대부분 [ChoDragon9/posts](https://github.com/ChoDragon9/posts/wiki) 저장소에 정리합니다.
-- 펫 프로젝트는 [개인 기술 블로그 - 펫 프로젝트](https://the-next-web-research-lab.github.io/fe-dev/pet-project.html)에 정리합니다.
-
-#### 경력
-- 마플코퍼레이션 | R&D | 2022.07.05~2023.05.31
-- 카카오 | FE플램폼팀 | 2018.02.19~2022.07.01
-- 한화테크윈 | Web SW팀 | 2016.01.01~2018.01.29
-- 삼성테크윈 | 선행개발연구소 | 2013.01.29~2015.12.31
-
-#### 주요 프로젝트
-- 마플코퍼레이션
-  - [사이어티: Web3 커뮤니티 소셜 플랫폼](https://www.ciety.xyz)
-- 카카오
-    - 사내 플랫폼 개발
-    - [카카오 for 비즈니스](https://business.kakao.com/)
-    - [카카오톡 비즈니스폼](https://business.kakao.com/talkbizform/)
-    - [kakao i open builder](https://i.kakao.com/)
-    - 카카오톡 영화예매 서비스
-- 한화테크윈
-    - B2B CCTV 웹뷰어 플랫폼 구축
-- 삼성테크윈
-    - 전사 웹 프레임워크 개발
-    - PnP 2.0 Mobile: 칩마운터 장비 모니터링 하이브리드 앱 개발
-
-#### 수상
-- 2019.04 제주도 기능경기대회 심사위원 위촉 | 제주도특별자치도 기능경기위원회
-- 2015.12 브라질국제기능올림픽 국가대표 지도교사 표창장 | 고용노동부장관 표창장
-- 2013.12 동탑산업훈장 | 행정안전부
-- 2013.07 제 42회 독일국제기능올림픽 금메달 & 국가 MVP | WorldSkills International
-- 2011.09 제 46회 전국기능경기대회 은메달 | 국제기능올림픽대회 한국위원회
-- 2011.04 충청북도 기능경기대회 금메달 | 충청북도기능경기위원회
+---
+**📝 학습: 흥미가 생기면 하나를 몰입해서 학습하는 성향이 있어요.**
+- 🧱 레거시 운영과 코드 리뷰하며 **이해하기 쉬운 코드**, **설계**, **리팩터링**에 흥미가 생김. 최근에는 [켄트 벡의 Tidy First?](https://www.yes24.com/Product/Goods/125921718)을 보고 있음
+- ⚡ 성능 모니터링 도구 개발 경험이 있어 **Chrome DevTools**, **Google Lighthouse** 기반 성능 최적화에 능숙함
+- 📒 학습한 자료는 대부분 [ChoDragon9/posts](https://github.com/ChoDragon9/posts/wiki) 저장소에 정리함
+- 🐈 펫 프로젝트는 [개인 기술 블로그 - 펫 프로젝트](https://the-next-web-research-lab.github.io/fe-dev/pet-project.html)에 정리함
