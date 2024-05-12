@@ -11,10 +11,10 @@
 
 ---
 **🧑‍💻활동 중인 SNS:**
-- [커리어리](https://careerly.co.kr/profiles/617720): 개발 관련 지식 공유하고 있음
-- [트위터](https://twitter.com/ChoDragon9): 이 또한 개발 관련 지식 공유함
-- [프로그래머스](https://career.programmers.co.kr/pr/155864_8345): 알고리즘 풀이 및 이력 정리
-- [링크드인](https://www.linkedin.com/in/yongku-cho): 특별한 활동은 안 함. 이력 정리를 위해 만들어둠
+- [커리어리](https://careerly.co.kr/profiles/617720): 개발 관련 공유
+- [트위터](https://twitter.com/ChoDragon9): 개발 관련 공유
+- [링크드인](https://www.linkedin.com/in/yongku-cho): 개발 관련 공유, 이력 정리
+- [프로그래머스](https://career.programmers.co.kr/pr/155864_8345): 알고리즘 풀이, 이력 정리
 
 ---
 **📝 학습: 흥미가 생기면 하나를 몰입해서 학습하는 성향이 있어요.**
