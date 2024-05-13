@@ -18,6 +18,7 @@
 
 ---
 **📝 학습: 흥미가 생기면 하나를 몰입해서 학습하는 성향이 있어요.**
+- 💻 알고리즘 문제 중 재밌는 문제는 [ChoDragon9/coding-test](https://github.com/ChoDragon9/coding-test) 저장소에 정리함
 - 🧱 레거시 운영과 코드 리뷰하며 **이해하기 쉬운 코드**, **설계**, **리팩터링**에 흥미가 생김. 최근에는 [켄트 벡의 Tidy First?](https://www.yes24.com/Product/Goods/125921718)을 보고 있음
 - ⚡ 성능 모니터링 도구 개발 경험이 있어 **Chrome DevTools**, **Google Lighthouse** 기반 성능 최적화에 능숙함
 - 📒 학습한 자료는 대부분 [ChoDragon9/posts](https://github.com/ChoDragon9/posts/wiki) 저장소에 정리함
