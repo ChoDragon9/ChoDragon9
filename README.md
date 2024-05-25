@@ -23,3 +23,6 @@
 - ⚡ 성능 모니터링 도구 개발 경험이 있어 **Chrome DevTools**, **Google Lighthouse** 기반 성능 최적화에 능숙함
 - 📒 학습한 자료는 대부분 [ChoDragon9/posts](https://github.com/ChoDragon9/posts/wiki) 저장소에 정리함
 - 🐈 펫 프로젝트는 [개인 기술 블로그 - 펫 프로젝트](https://the-next-web-research-lab.github.io/fe-dev/pet-project.html)에 정리함
+
+---
+![레벨 체크](https://github.com/ChoDragon9/algorithm-challenges/assets/17817719/a7a26835-b049-426d-a8bb-b8443edf5e49)
