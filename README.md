@@ -25,4 +25,5 @@
 - 🐈 펫 프로젝트는 [개인 기술 블로그 - 펫 프로젝트](https://the-next-web-research-lab.github.io/fe-dev/pet-project.html)에 정리함
 
 ---
-![레벨 체크](https://github.com/ChoDragon9/algorithm-challenges/assets/17817719/a7a26835-b049-426d-a8bb-b8443edf5e49)
+![레벨 체크](https://github.com/ChoDragon9/ChoDragon9/assets/17817719/f001ac50-02d1-427d-824f-6acb11cc7e4f)
+
