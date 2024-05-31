@@ -11,6 +11,10 @@
 - 🛠️ 도구: `Docker`, `Kubernetes`, `Puppeteer`, `Lighthouse`, `Grunt`, `Webpack`, `ESLint`
 
 ---
+
+![레벨 체크](https://github.com/ChoDragon9/ChoDragon9/assets/17817719/9f5438de-fe42-4325-bff9-2db0e4e617b0)
+
+---
 **🧑‍💻활동 중인 SNS:**
 - [커리어리](https://careerly.co.kr/profiles/617720): 개발 관련 공유
 - [트위터](https://twitter.com/ChoDragon9): 개발 관련 공유
@@ -31,6 +35,5 @@
 - 🐈 펫 프로젝트는 [개인 기술 블로그 - 펫 프로젝트](https://the-next-web-research-lab.github.io/fe-dev/pet-project.html)에 정리함
 
 ---
-![레벨 체크](https://github.com/ChoDragon9/ChoDragon9/assets/17817719/9f5438de-fe42-4325-bff9-2db0e4e617b0)
 
 
