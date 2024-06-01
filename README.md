@@ -10,8 +10,7 @@
 - 🛠️ 도구: `Docker`, `Kubernetes`, `Puppeteer`, `Lighthouse`, `Grunt`, `Webpack`, `ESLint`
 
 ---
-
-![레벨 체크](https://github.com/ChoDragon9/ChoDragon9/assets/17817719/9f5438de-fe42-4325-bff9-2db0e4e617b0)
+![레벨 체크](https://github.com/ChoDragon9/ChoDragon9/assets/17817719/95580e15-f370-4179-810f-e572d46e9f8d)
 
 ---
 **🧑‍💻활동 중인 SNS:**
