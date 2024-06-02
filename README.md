@@ -20,7 +20,7 @@
 - [프로그래머스](https://career.programmers.co.kr/pr/155864_8345): 알고리즘 풀이, 이력 정리
 
 ---
-**📝 학습: 흥미가 생기면 하나를 몰입해서 학습하는 성향이 있어요.**
+**📝 학습: 흥미가 생기면 몰입해서 학습하는 성향이 있어요.**
 
 진행 중
 - 💻 알고리즘 문제 중 재밌는 문제는 [ChoDragon9/algorithm-challenges](https://github.com/ChoDragon9/algorithm-challenges) 저장소에 정리함
