@@ -1,5 +1,3 @@
-<h2 align="center">지구인 여러분 안녕👋 I'm 조용구</h2>
-
 **👋 수원시에 거주 중인 11년 차 프론트엔드 개발자입니다.**
 - 💻 요새는 [알고리즘 풀이](https://github.com/ChoDragon9/algorithm-challenges), [Rust 학습](https://github.com/ChoDragon9/rust-study)하며 새로운 지식을 공부하는 데 즐기는 중.
 - 💼 그 동안 다닌 회사: `카카오`, `삼성테크윈`, `한화테크윈`, `마플코퍼레이션`
