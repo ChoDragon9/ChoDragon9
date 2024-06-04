@@ -23,6 +23,7 @@
 진행 중
 - 💻 알고리즘 문제 중 재밌는 문제는 [ChoDragon9/algorithm-challenges](https://github.com/ChoDragon9/algorithm-challenges) 저장소에 정리함
 - ⚙️ DX 향상시킬 만한 Rust 기반 툴을 만들어보고 싶어 학습 중 [ChoDragon9/rust-study](https://github.com/ChoDragon9/rust-study)
+- 📚 HTML, CSS 최신 스펙을 사용해보기 위해 반응형 웹 시뮬레이터 개발 중 [ChoDragon9/responsive-web-simulator](https://github.com/ChoDragon9/responsive-web-simulator)
 
 이전
 - 🧱 레거시 운영과 코드 리뷰하며 **이해하기 쉬운 코드**, **설계**, **리팩터링**에 흥미가 생김. 최근에는 [켄트 벡의 Tidy First?](https://www.yes24.com/Product/Goods/125921718)을 보고 있음
