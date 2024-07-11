@@ -1,5 +1,5 @@
 **👋 수원시에 거주 중인 11년 차 프론트엔드 개발자입니다.**
-- 💻 요새는 [알고리즘 풀이](https://github.com/ChoDragon9/algorithm-challenges), [Rust 학습](https://github.com/ChoDragon9/rust-study)하며 새로운 지식을 공부하는 데 즐기는 중.
+- 💻 열일 중
 - 💼 그 동안 다닌 회사: `이그나이트`, `카카오`, `삼성테크윈`, `한화테크윈`, `마플코퍼레이션`
 - 📝 프로젝트 도메인: `모빌리티`, `영화`, `챗봇`, `카카오톡 비즈폼`, `사내 플랫폼`, `칩마운터`, `CCTV`, `SNS`
 - 🏹 잘 다루는 언어: `.js`, `.ts`, `.html`, `.css`
@@ -21,7 +21,7 @@
 ---
 **📝 학습: 흥미가 생기면 몰입해서 학습하는 성향이 있어요.**
 
-진행 중
+일시정지 중
 - 💻 알고리즘 문제 중 재밌는 문제는 [ChoDragon9/algorithm-challenges](https://github.com/ChoDragon9/algorithm-challenges) 저장소에 정리함
 - ⚙️ DX 향상시킬 만한 Rust 기반 툴을 만들어보고 싶어 학습 중 [ChoDragon9/rust-study](https://github.com/ChoDragon9/rust-study)
 
