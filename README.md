@@ -5,21 +5,11 @@
 - 🏹 잘 다루는 언어: `.js`, `.ts`, `.html`, `.css`
 - 🗡️ 학습 중인 언어: `.rs`
 - 🪄 프레임워크: `React`, `Angular`, `AngularJs`, `Vue.js`, `Cordova`, `React Native`
-- 🛠️ 도구: `Docker`, `Kubernetes`, `Puppeteer`, `Lighthouse`, `Grunt`, `Webpack`, `ESLint`
-
----
-![레벨 기록](https://github.com/ChoDragon9/ChoDragon9/assets/17817719/8c1682ae-3f6e-4e58-89ce-babfb51f1c0a)
-
-
----
-**🧑‍💻활동 중인 SNS:**
-- [커리어리](https://careerly.co.kr/profiles/617720): 개발 관련 공유
-- [트위터](https://twitter.com/ChoDragon9): 개발 관련 공유
-- [링크드인](https://www.linkedin.com/in/yongku-cho): 개발 관련 공유, 이력 정리
-- [프로그래머스](https://career.programmers.co.kr/pr/155864_8345): 알고리즘 풀이, 이력 정리
+- 🛠️ 도구: `AWS`, `Docker`, `Kubernetes`, `Puppeteer`, `Lighthouse`, `Grunt`, `Webpack`, `ESLint`
 
 ---
 **📝 학습: 흥미가 생기면 몰입해서 학습하는 성향이 있어요.**
+- 일을 하면서 관심이 생겨 학습 중 [ChoDragon9/aws-study](https://github.com/ChoDragon9/aws-study)
 
 일시정지 중
 - 💻 알고리즘 문제 중 재밌는 문제는 [ChoDragon9/algorithm-challenges](https://github.com/ChoDragon9/algorithm-challenges) 저장소에 정리함
@@ -32,5 +22,15 @@
 - 🐈 펫 프로젝트는 [개인 기술 블로그 - 펫 프로젝트](https://the-next-web-research-lab.github.io/fe-dev/pet-project.html)에 정리함
 
 ---
+![레벨 기록](https://github.com/ChoDragon9/ChoDragon9/assets/17817719/8c1682ae-3f6e-4e58-89ce-babfb51f1c0a)
+
+
+---
+**🧑‍💻활동 중인 SNS:**
+- [커리어리](https://careerly.co.kr/profiles/617720): 개발 관련 공유
+- [트위터](https://twitter.com/ChoDragon9): 개발 관련 공유
+- [링크드인](https://www.linkedin.com/in/yongku-cho): 개발 관련 공유, 이력 정리
+- [프로그래머스](https://career.programmers.co.kr/pr/155864_8345): 알고리즘 풀이, 이력 정리
+
 
 
