@@ -9,7 +9,7 @@
 
 ---
 **📝 학습: 흥미가 생기면 몰입해서 학습하는 성향이 있어요.**
-- 일을 하면서 관심이 생겨 학습 중 [ChoDragon9/aws-study](https://github.com/ChoDragon9/aws-study)
+- 일을 하면서 관심이 생겨 AWS 학습 중
 
 일시정지 중
 - 💻 알고리즘 문제 중 재밌는 문제는 [ChoDragon9/algorithm-challenges](https://github.com/ChoDragon9/algorithm-challenges) 저장소에 정리함
