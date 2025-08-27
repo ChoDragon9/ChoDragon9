@@ -17,16 +17,12 @@
 - 📒 학습한 자료는 대부분 [ChoDragon9/posts](https://github.com/ChoDragon9/posts/wiki) 저장소에 정리함
 - 🐈 펫 프로젝트는 [개인 기술 블로그 - 펫 프로젝트](https://the-next-web-research-lab.github.io/fe-dev/pet-project.html)에 정리함
 
----
-![레벨 기록](https://github.com/ChoDragon9/ChoDragon9/assets/17817719/8c1682ae-3f6e-4e58-89ce-babfb51f1c0a)
-
 
 ---
 **🧑‍💻활동 중인 SNS:**
 - [커리어리](https://careerly.co.kr/profiles/617720): 개발 관련 공유
 - [트위터](https://twitter.com/ChoDragon9): 개발 관련 공유
 - [링크드인](https://www.linkedin.com/in/yongku-cho): 개발 관련 공유, 이력 정리
-- [프로그래머스](https://career.programmers.co.kr/pr/155864_8345): 알고리즘 풀이, 이력 정리
 
 
 
