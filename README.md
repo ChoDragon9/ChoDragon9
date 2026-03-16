@@ -20,7 +20,6 @@
 
 ---
 **🧑‍💻활동 중인 SNS:**
-- [커리어리](https://careerly.co.kr/profiles/617720): 개발 관련 공유
 - [트위터](https://twitter.com/ChoDragon9): 개발 관련 공유
 - [링크드인](https://www.linkedin.com/in/yongku-cho): 개발 관련 공유, 이력 정리
 
